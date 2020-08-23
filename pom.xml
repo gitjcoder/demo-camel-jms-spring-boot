@@ -10,7 +10,7 @@
 	</parent>
 	
 	<groupId>com.saber.eia</groupId>
-	<artifactId>demo-camel-spring-boot</artifactId>
+	<artifactId>demo-camel-jms-spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>DemoCamelSpringBoot</name>
 	<description>Demo project for Spring Boot and Camel</description>
